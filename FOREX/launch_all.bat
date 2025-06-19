@@ -1,0 +1,8 @@
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_longterm_202001.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_longterm_202003.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_longterm_202005.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_shortterm_202407.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_shortterm_202409.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_shortterm_202411.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_shortterm_202501.ini"
+"C:\Program Files\IC Trading (MU) MT5 Terminal\terminal64.exe" /config:"C:\Users\MARRE\Desktop\Reussir-en-bourse\Simplify_MT5_Automatic_Optimizer\results\ini_AUDCAD_H1_BARCELONE\AUDCAD_H1_shortterm_202503.ini"
